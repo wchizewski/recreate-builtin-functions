@@ -20,7 +20,8 @@ function indexOf(item, array) {
 }
 
 function reverse(array) {
+    let reverse = []
     for (let i = 0; i < array.length; i++) {
-        
+        array[i] 
     }
 }
